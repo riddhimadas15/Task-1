@@ -1,1 +1,1 @@
-# Task-1
+ The cleaning of the dataset was done using pandas library in Python. format.py was the python file which contains the code. Mall_Customers.csv is the raw dataset taken from Kaggle, whereas new_dataset.csv is the resultant cleaned dataset. explanation.odt contains an explanation of the code and what each command does.
